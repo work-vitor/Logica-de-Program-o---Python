@@ -1,0 +1,1 @@
+print("O enunciado não faz o menor sentido kjjjjjj")
